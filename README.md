@@ -30,7 +30,7 @@ by **Ghost Shark Robotics** · UI in 日本語 / English / 中文
 
 ## Is it safe? (anti-cheat)
 
-Yes. MarketLens is a **completely separate program**. It only ① screenshots its own/the desktop screen and reads text, ② listens for your chosen hotkey, and ③ asks **Steam's public price API**. It **never reads or writes the game's memory, injects nothing, and never touches the game process** — no speed/time manipulation — so it does not trigger the game's cheat detection.
+Yes. MarketLens **only reads what's already on your screen.** It takes an ordinary screenshot (the standard Windows screen capture — the same as any screenshot app), recognizes the item name with OCR, and looks its price up on Steam. It runs as a separate program and **never reads or modifies the game's memory**, so the game's anti-cheat does **not** flag it as a cheat.
 
 ## Privacy
 
@@ -42,4 +42,10 @@ MarketLens checks on startup. When a new version exists, a **⬆ Update** entry 
 
 ---
 
-*Optional tip: ☕ [Ko-fi](https://ko-fi.com/ghostsharkrobotics). Unofficial fan-made tool, provided “as is.”*
+## Disclaimer
+
+Unofficial, fan-made tool — **not affiliated with, endorsed by, or connected to the game's developer or Valve/Steam.** Provided **“as is,” without warranty of any kind.**
+
+Prices come from the Steam Community Market and **may be inaccurate, delayed, or wrong** (non-USD prices are currency-converted estimates). They are **not trading or financial advice** — always confirm on the Steam Market before you buy or sell. **You use this tool entirely at your own risk; the author accepts no liability for any loss or damage (including from trades, purchases, or sales) arising from its use.**
+
+*by **Ghost Shark Robotics** · optional tip: [☕ Ko-fi](https://ko-fi.com/ghostsharkrobotics)*
