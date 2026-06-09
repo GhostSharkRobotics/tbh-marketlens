@@ -3,7 +3,7 @@
 
 # TBH MarketLens
 
-**在 _TBH: Task Bar Hero_ 中把光标对准物品并按一个键，立刻弹出它的 Steam 市场价格 —— 无需打字、无需 Alt+Tab。**
+**在 _TBH: Task Bar Hero_ 中把光标对准物品并按一个键，立刻弹出它的 Steam 市场价格 —— 无需输入名称搜索。**
 
 by **Ghost Shark Robotics** · 界面支持 日本語 / English / 中文
 

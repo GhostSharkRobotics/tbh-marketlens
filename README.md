@@ -3,7 +3,7 @@
 
 # TBH MarketLens
 
-**Point at an item in _TBH: Task Bar Hero_, press a key, and its Steam Market price pops up instantly — no typing, no Alt-Tab.**
+**Point at an item in _TBH: Task Bar Hero_, press a key, and its Steam Market price pops up instantly — no name‑typing, no searching.**
 
 by **Ghost Shark Robotics** · UI in 日本語 / English / 中文
 

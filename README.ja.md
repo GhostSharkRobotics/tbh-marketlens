@@ -3,7 +3,7 @@
 
 # TBH MarketLens
 
-**_TBH: Task Bar Hero_ のアイテムにカーソルを合わせてキーを押すだけで、Steam マーケットの現在価格が即表示。タイピングも Alt+Tab も不要。**
+**_TBH: Task Bar Hero_ のアイテムにカーソルを合わせてキーを押すだけで、Steam マーケットの現在価格が即表示。名前を打って検索する手間はありません。**
 
 by **Ghost Shark Robotics** · UI は 日本語 / English / 中文 対応
 
@@ -42,4 +42,4 @@ by **Ghost Shark Robotics** · UI は 日本語 / English / 中文 対応
 
 ---
 
-*応援（任意）：☕ [Ko-fi](https://ko-fi.com/ghostsharkrobotics)。非公式のファン制作ツール、現状有姿での提供です。*
+*応援（任意）：☕ [Ko-fi](https://ko-fi.com/ghostsharkrobotics)。非公式のファン制作ツールです（無保証）。*
