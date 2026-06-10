@@ -7,6 +7,11 @@
 
 by **Ghost Shark Robotics** · 界面支持 日本語 / English / 中文
 
+<p>
+  <img src="docs/marketlens-lens.png" width="380" alt="价格弹窗">
+  <img src="docs/marketlens-history.png" width="380" alt="价格历史与可出售计时">
+</p>
+
 ---
 
 ## ⬇ 下载与运行（Windows）

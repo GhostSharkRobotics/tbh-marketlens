@@ -7,6 +7,11 @@
 
 by **Ghost Shark Robotics** · UI は 日本語 / English / 中文 対応
 
+<p>
+  <img src="docs/marketlens-lens.png" width="380" alt="価格ポップ">
+  <img src="docs/marketlens-history.png" width="380" alt="価格履歴・出品待ち">
+</p>
+
 ---
 
 ## ⬇ ダウンロードと起動（Windows）

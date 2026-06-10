@@ -7,6 +7,11 @@
 
 by **Ghost Shark Robotics** · UI in 日本語 / English / 中文
 
+<p>
+  <img src="docs/marketlens-lens.png" width="380" alt="price popup">
+  <img src="docs/marketlens-history.png" width="380" alt="price history &amp; sell timer">
+</p>
+
 ---
 
 ## ⬇ Download & run (Windows)
