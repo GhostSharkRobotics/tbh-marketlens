@@ -7,9 +7,13 @@
 
 by **Ghost Shark Robotics** · 界面支持 日本語 / English / 中文
 
-<p>
-  <img src="docs/marketlens-lens.png" width="380" alt="价格弹窗">
-  <img src="docs/marketlens-history.png" width="380" alt="价格历史与可出售计时">
+<p align="center">
+  <img src="docs/marketlens-lens.png" width="440" alt="价格弹窗"><br>
+  <sub>对准物品 → 按一下键 → 立即显示 Steam 价格（最低价・中位价）</sub>
+</p>
+<p align="center">
+  <img src="docs/marketlens-history.png" width="360" alt="价格历史与可出售计时"><br>
+  <sub>价格历史（按添加 / 最低 / 中位排序・一键更新）与可出售计时提醒</sub>
 </p>
 
 ---

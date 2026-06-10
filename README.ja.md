@@ -7,9 +7,13 @@
 
 by **Ghost Shark Robotics** · UI は 日本語 / English / 中文 対応
 
-<p>
-  <img src="docs/marketlens-lens.png" width="380" alt="価格ポップ">
-  <img src="docs/marketlens-history.png" width="380" alt="価格履歴・出品待ち">
+<p align="center">
+  <img src="docs/marketlens-lens.png" width="440" alt="価格ポップ"><br>
+  <sub>アイテムにカーソル → キーを押すと Steam 価格（最安・中央値）が即表示</sub>
+</p>
+<p align="center">
+  <img src="docs/marketlens-history.png" width="360" alt="価格履歴・出品待ち"><br>
+  <sub>履歴（追加日／最安／中央値で並べ替え・一括更新）と出品待ち通知</sub>
 </p>
 
 ---
